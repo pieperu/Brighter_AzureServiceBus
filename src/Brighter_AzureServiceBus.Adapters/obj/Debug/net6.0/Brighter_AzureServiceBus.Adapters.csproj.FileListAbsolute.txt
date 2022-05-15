@@ -1,0 +1,12 @@
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\bin\Debug\net6.0\Brighter_AzureServiceBus.Adapters.deps.json
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\bin\Debug\net6.0\Brighter_AzureServiceBus.Adapters.dll
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\bin\Debug\net6.0\ref\Brighter_AzureServiceBus.Adapters.dll
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\bin\Debug\net6.0\Brighter_AzureServiceBus.Adapters.pdb
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\obj\Debug\net6.0\Brighter_AzureServiceBus.Adapters.csproj.AssemblyReference.cache
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\obj\Debug\net6.0\Brighter_AzureServiceBus.Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\obj\Debug\net6.0\Brighter_AzureServiceBus.Adapters.AssemblyInfoInputs.cache
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\obj\Debug\net6.0\Brighter_AzureServiceBus.Adapters.AssemblyInfo.cs
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\obj\Debug\net6.0\Brighter_AzureServiceBus.Adapters.csproj.CoreCompileInputs.cache
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\obj\Debug\net6.0\Brighter_AzureServiceBus.Adapters.dll
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\obj\Debug\net6.0\ref\Brighter_AzureServiceBus.Adapters.dll
+C:\Source\Playground\Brighter_AzureServiceBus\src\Brighter_AzureServiceBus.Adapters\obj\Debug\net6.0\Brighter_AzureServiceBus.Adapters.pdb

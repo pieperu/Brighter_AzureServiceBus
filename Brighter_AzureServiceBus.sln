@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BADD6D54-92FB-4CCE-9340-131D333846CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brighter_AzureServiceBus.Ports", "src\Brighter_AzureServiceBus.Ports\Brighter_AzureServiceBus.Ports.csproj", "{FD38026F-4502-44B2-93E2-4C8507135119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brighter_AzureServiceBus.Adapters", "src\Brighter_AzureServiceBus.Adapters\Brighter_AzureServiceBus.Adapters.csproj", "{264718B4-17F3-469F-9133-7EAA1B869C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brighter_AzureServiceBus.Entities", "src\Brighter_AzureServiceBus.Entities\Brighter_AzureServiceBus.Entities.csproj", "{B09FE8DE-46D2-4972-A1EC-A6F1F3F0EE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brighter_AzureServiceBus.Host", "src\Brighter_AzureServiceBus.Host\Brighter_AzureServiceBus.Host.csproj", "{22C229AA-8C02-4688-878E-9A948F6B6471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FD38026F-4502-44B2-93E2-4C8507135119} = {BADD6D54-92FB-4CCE-9340-131D333846CD}
+		{264718B4-17F3-469F-9133-7EAA1B869C79} = {BADD6D54-92FB-4CCE-9340-131D333846CD}
+		{B09FE8DE-46D2-4972-A1EC-A6F1F3F0EE6E} = {BADD6D54-92FB-4CCE-9340-131D333846CD}
+		{22C229AA-8C02-4688-878E-9A948F6B6471} = {BADD6D54-92FB-4CCE-9340-131D333846CD}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD38026F-4502-44B2-93E2-4C8507135119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD38026F-4502-44B2-93E2-4C8507135119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD38026F-4502-44B2-93E2-4C8507135119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD38026F-4502-44B2-93E2-4C8507135119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264718B4-17F3-469F-9133-7EAA1B869C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264718B4-17F3-469F-9133-7EAA1B869C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264718B4-17F3-469F-9133-7EAA1B869C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264718B4-17F3-469F-9133-7EAA1B869C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B09FE8DE-46D2-4972-A1EC-A6F1F3F0EE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09FE8DE-46D2-4972-A1EC-A6F1F3F0EE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09FE8DE-46D2-4972-A1EC-A6F1F3F0EE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09FE8DE-46D2-4972-A1EC-A6F1F3F0EE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C229AA-8C02-4688-878E-9A948F6B6471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C229AA-8C02-4688-878E-9A948F6B6471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C229AA-8C02-4688-878E-9A948F6B6471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C229AA-8C02-4688-878E-9A948F6B6471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
